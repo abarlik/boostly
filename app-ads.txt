@@ -1,0 +1,3 @@
+# App-ads.txt file for BoostlyApp
+
+google.com, pub-1901405619649601, DIRECT, f08c47fec0942fa0
